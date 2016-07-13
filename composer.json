@@ -1,0 +1,12 @@
+{
+    "name": "abc/doordu_composer_demo",
+    "description": "test",
+    "authors": [
+        {
+            "name": "Enoch",
+            "email": "15989529532@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
